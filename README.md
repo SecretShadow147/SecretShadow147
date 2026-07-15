@@ -48,14 +48,6 @@ sleep:    false
 
 ---
 
-### 🔥 GitHub Stats
-
-<br>
-
-<img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecretShadow147&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
-
-<br/><br/>
-
 
 
 ### 📫 Connect with me
